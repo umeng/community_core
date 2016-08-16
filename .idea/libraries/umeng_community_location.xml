@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="umeng_community_location">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/locationlibrary/libs/umeng_community_location.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

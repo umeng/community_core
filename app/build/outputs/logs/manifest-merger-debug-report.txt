@@ -21,32 +21,46 @@ uses-sdk
 ADDED from /Users/umeng/Documents/umenggit/coredemo/app/src/main/AndroidManifest.xml:8:5-10:41
 MERGED from [coredemo:discusslibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/discusslibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:loginlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/loginlibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:sharelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/sharelibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:pushlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/pushlibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:mainuilibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:loginlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/loginlibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:locationlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/locationlibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:wblibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/wblibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:loginlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/loginlibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:sharelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/sharelibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:pushlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/pushlibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:mainuilibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:loginlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/loginlibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 MERGED from [coredemo:locationlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/locationlibrary/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
 		ADDED from /Users/umeng/Documents/umenggit/coredemo/app/src/main/AndroidManifest.xml:10:9-38
 		INJECTED from /Users/umeng/Documents/umenggit/coredemo/app/src/main/AndroidManifest.xml
@@ -165,32 +179,46 @@ application
 ADDED from /Users/umeng/Documents/umenggit/coredemo/app/src/main/AndroidManifest.xml:69:5-382:19
 MERGED from [coredemo:discusslibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/discusslibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:loginlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/loginlibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:sharelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/sharelibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:pushlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/pushlibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:mainuilibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:loginlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/loginlibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:locationlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/locationlibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:wblibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/wblibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:loginlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/loginlibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:sharelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/sharelibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:pushlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/pushlibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:mainuilibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:loginlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/loginlibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 MERGED from [coredemo:locationlibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/locationlibrary/unspecified/AndroidManifest.xml:11:5-12:19
 MERGED from [coredemo:corelibrary:unspecified] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/corelibrary/unspecified/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-v4:22.0.0] /Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/AndroidManifest.xml:22:5-20
 	android:label
 		ADDED from /Users/umeng/Documents/umenggit/coredemo/app/src/main/AndroidManifest.xml:74:9-41
 	android:hardwareAccelerated
