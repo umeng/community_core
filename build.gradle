@@ -5,7 +5,9 @@ buildscript {
     }
     dependencies {
         classpath 'com.android.tools.build:gradle:2.1.2'
-        classpath 'com.novoda:bintray-release:0.3.4'
+      //  classpath 'com.novoda:bintray-release:0.3.4'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'
+        classpath 'com.novoda:bintray-release:0.3.4'//添加
     }
 }
 
@@ -19,3 +21,13 @@ allprojects {
     }
 }
 
+//添加
+ext {
+    userOrg = 'wangfei'
+    groupId = 'com.umeng'
+    uploadName = 'wsq'
+    publishVersion = '1.0.2'
+    desc = 'a easy API to use runtime permission for Android M '
+    website = 'https://github.com/umeng/community_core'
+    licences = ['Apache-2.0']
+}
