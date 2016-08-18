@@ -193,7 +193,6 @@
     <string name="umeng_comm_data_failed">加载数据失败</string>
     <string name="umeng_comm_overflow_tips">抱歉,已超过字符上限~</string>
     <string name="umeng_comm_http_conn_failed">连接服务器失败,请检查您的网络~</string>
-    <string name="umeng_comm_http_time_out">请求超时,请检查您的网络~</string>
     <string name="umeng_comm_write_sth">写点啥吧</string>
     <string name="umeng_comm_user_name_feed_invalid">无效Feed</string>
     <string name="umeng_comm_no_push">目前您没有集成推送组件</string>
@@ -296,7 +295,6 @@
     <string name="umeng_comm_id">账号</string>
     <string name="umeng_comm_login_secret">请输入密码</string>
     <string name="umeng_comm_discuss_invalid_feed">帖子被屏蔽或删除</string>
-    <string name="umeng_comm_http_req_failed">网络请求失败,请重试~</string>
     <string name="umeng_comm_do_not_spam_yourself_content">抱歉,不能举报自己的内容~</string>
     <string name="umeng_comm_do_not_spam_yourself">抱歉,不能举报自己的内容~</string>
     <string name="umeng_comm_feed_unavailable">该Feed不可访问,可能已被管理员删除~</string>

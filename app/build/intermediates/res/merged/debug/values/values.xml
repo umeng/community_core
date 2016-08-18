@@ -617,8 +617,6 @@
     <string name="umeng_comm_header">楼主</string>
     <string name="umeng_comm_hot">最热</string>
     <string name="umeng_comm_http_conn_failed">连接服务器失败,请检查您的网络~</string>
-    <string name="umeng_comm_http_req_failed">网络请求失败,请重试~</string>
-    <string name="umeng_comm_http_time_out">请求超时,请检查您的网络~</string>
     <string name="umeng_comm_id">账号</string>
     <string name="umeng_comm_image_overflow">抱歉,最多只能选择9张图片</string>
     <string name="umeng_comm_image_overflow_one">抱歉,最多只能选择1张图片</string>

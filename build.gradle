@@ -23,7 +23,7 @@ allprojects {
 
 //添加
 ext {
-    userOrg = 'wangfei'
+    userOrg = 'mymdeep'
     groupId = 'com.umeng'
     uploadName = 'wsq'
     publishVersion = '1.0.2'

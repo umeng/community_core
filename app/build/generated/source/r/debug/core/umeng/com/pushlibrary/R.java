@@ -19,17 +19,17 @@ public final class R {
 		public static final int umeng_comm_device_forbiddened = 0x7f080045;
 		public static final int umeng_comm_duplicate_content = 0x7f08006d;
 		public static final int umeng_comm_duplicate_name = 0x7f08006e;
-		public static final int umeng_comm_invalid_token = 0x7f0800a9;
-		public static final int umeng_comm_load_failed = 0x7f0800bf;
-		public static final int umeng_comm_login_failed = 0x7f0800c6;
-		public static final int umeng_comm_login_failed_register = 0x7f0800c7;
-		public static final int umeng_comm_login_user_invalid = 0x7f0800d5;
-		public static final int umeng_comm_login_username_sensitive = 0x7f0800d6;
-		public static final int umeng_comm_not_network = 0x7f080107;
-		public static final int umeng_comm_user_deleted = 0x7f08018b;
-		public static final int umeng_comm_user_name_illegal_char = 0x7f080194;
-		public static final int umeng_comm_user_name_tips = 0x7f080195;
-		public static final int umeng_comm_user_same = 0x7f080199;
-		public static final int umeng_comm_user_unusable = 0x7f08019c;
+		public static final int umeng_comm_invalid_token = 0x7f0800a7;
+		public static final int umeng_comm_load_failed = 0x7f0800bd;
+		public static final int umeng_comm_login_failed = 0x7f0800c4;
+		public static final int umeng_comm_login_failed_register = 0x7f0800c5;
+		public static final int umeng_comm_login_user_invalid = 0x7f0800d3;
+		public static final int umeng_comm_login_username_sensitive = 0x7f0800d4;
+		public static final int umeng_comm_not_network = 0x7f080105;
+		public static final int umeng_comm_user_deleted = 0x7f080189;
+		public static final int umeng_comm_user_name_illegal_char = 0x7f080192;
+		public static final int umeng_comm_user_name_tips = 0x7f080193;
+		public static final int umeng_comm_user_same = 0x7f080197;
+		public static final int umeng_comm_user_unusable = 0x7f08019a;
 	}
 }

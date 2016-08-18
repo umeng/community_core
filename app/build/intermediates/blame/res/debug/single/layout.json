@@ -8,16 +8,16 @@
         "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/layout/umeng_comm_at_friends_layout.xml"
     },
     {
-        "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_comm_base_view.xml",
-        "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/layout/umeng_comm_base_view.xml"
+        "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_comm_login_dialog.xml",
+        "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/loginlibrary/unspecified/res/layout/umeng_comm_login_dialog.xml"
     },
     {
         "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_comm_image_selected_item.xml",
         "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/layout/umeng_comm_image_selected_item.xml"
     },
     {
-        "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_comm_login_dialog.xml",
-        "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/loginlibrary/unspecified/res/layout/umeng_comm_login_dialog.xml"
+        "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_comm_base_view.xml",
+        "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/layout/umeng_comm_base_view.xml"
     },
     {
         "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_comm_topic_recommend.xml",
@@ -36,12 +36,12 @@
         "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/layout/umeng_comm_notify_item.xml"
     },
     {
-        "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_commm_msg_comment.xml",
-        "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/discusslibrary/unspecified/res/layout/umeng_commm_msg_comment.xml"
-    },
-    {
         "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_comm_at_friend_lv_item.xml",
         "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/layout/umeng_comm_at_friend_lv_item.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_commm_msg_comment.xml",
+        "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/discusslibrary/unspecified/res/layout/umeng_commm_msg_comment.xml"
     },
     {
         "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_comm_comment_message_lv_item.xml",
@@ -68,12 +68,12 @@
         "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/sharelibrary/unspecified/res/layout/umeng_bak_platform_selector_dialog.xml"
     },
     {
-        "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_socialize_base_alert_dialog.xml",
-        "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/sharelibrary/unspecified/res/layout/umeng_socialize_base_alert_dialog.xml"
-    },
-    {
         "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_comm_my_adapter.xml",
         "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/layout/umeng_comm_my_adapter.xml"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_socialize_base_alert_dialog.xml",
+        "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/sharelibrary/unspecified/res/layout/umeng_socialize_base_alert_dialog.xml"
     },
     {
         "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/layout/umeng_comm_topic_detail_layout.xml",

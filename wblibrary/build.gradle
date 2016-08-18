@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-
+apply plugin: 'com.novoda.bintray-release'
 android {
     compileSdkVersion 24
     buildToolsVersion "24.0.0"
@@ -27,4 +27,14 @@ dependencies {
     compile project(':pushlibrary')
     compile project(':mainuilibrary')
     compile project(':locationlibrary')
+}
+publish {
+    artifactId = 'wblibrary'
+    userOrg = rootProject.userOrg
+    groupId = rootProject.groupId
+    uploadName = rootProject.uploadName
+    publishVersion = rootProject.publishVersion
+    desc = rootProject.description
+    website = rootProject.website
+    licences = rootProject.licences
 }

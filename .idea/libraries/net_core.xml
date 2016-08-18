@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="net_core">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/corelibrary/libs/net_core.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

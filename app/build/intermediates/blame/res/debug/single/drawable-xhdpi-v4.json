@@ -16,12 +16,12 @@
         "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/drawable-xhdpi-v4/umeng_comm_msg_comment.png"
     },
     {
-        "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_reply_comment.png",
-        "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_reply_comment.png"
-    },
-    {
         "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_more.png",
         "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_more.png"
+    },
+    {
+        "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_detail_reply_comment.png",
+        "source": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/exploded-aar/coredemo/mainuilibrary/unspecified/res/drawable-xhdpi-v4/umeng_comm_feed_detail_reply_comment.png"
     },
     {
         "merged": "/Users/umeng/Documents/umenggit/coredemo/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/umeng_comm_feed_item_top.png",
