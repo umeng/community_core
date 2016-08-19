@@ -30,7 +30,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.umeng.comm.core.constants.Constants;
+
 import com.umeng.message.PushAgent;
 import com.umeng.message.UHandler;
 import com.umeng.message.UmengMessageHandler;

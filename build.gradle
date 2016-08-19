@@ -25,8 +25,8 @@ allprojects {
 ext {
     userOrg = 'mymdeep'
     groupId = 'com.umeng'
-    uploadName = 'wsq'
-    publishVersion = '1.0.2'
+    uploadName = 'wsqall'
+    publishVersion = '1.0.5'
     desc = 'a easy API to use runtime permission for Android M '
     website = 'https://github.com/umeng/community_core'
     licences = ['Apache-2.0']

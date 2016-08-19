@@ -20,4 +20,5 @@ android {
 dependencies {
     compile project(':discusslibrary')
     compile project(':wblibrary')
+    compile project(':dblibrary')
 }
